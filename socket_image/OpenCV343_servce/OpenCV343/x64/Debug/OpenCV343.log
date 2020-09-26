@@ -1,0 +1,3 @@
+﻿  main.cpp
+d:\work\program\myself\socket傳圖\opencv343_servce\opencv343\main.cpp(21): warning C4101: 'message': 未參考的區域變數
+  OpenCV343.vcxproj -> D:\Work\Program\myself\socket傳圖\OpenCV343_servce\x64\Debug\OpenCV343.exe

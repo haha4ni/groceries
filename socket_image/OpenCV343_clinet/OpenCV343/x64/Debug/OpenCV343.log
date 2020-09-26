@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\work\program\myself\socket傳圖\opencv343\opencv343\main.cpp(166): warning C4477: 'printf' : 格式字串 '%x' 需要 'unsigned int' 類型的引數，但 variadic 引數 1 的類型為 'const char **'
+d:\work\program\myself\socket傳圖\opencv343\opencv343\main.cpp(166): warning C4313: 'printf': 格式字串中的 '%x' 與類型 'const char **' 的引數 1 衝突
+  OpenCV343.vcxproj -> D:\Work\Program\myself\socket傳圖\OpenCV343\x64\Debug\OpenCV343.exe
