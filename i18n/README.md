@@ -1,0 +1,3 @@
+chcp 65001 把windows CMD切成UTF8模式
+讀檔沒問題 可以讀出unicode存進
+wcout部分沒解決掉 目前只能顯示出當地語系的文字
